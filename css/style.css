@@ -230,3 +230,13 @@ body {
     margin-bottom: 0;
   }
 }
+
+/* */
+
+.js-tabcontent section {
+  display: none;
+}
+
+.js-tabcontent section.active {
+  display: block !important;
+}
