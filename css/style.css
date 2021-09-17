@@ -109,6 +109,10 @@ body {
   grid-column: 2;
 }
 
+.animals-list li {
+  cursor: pointer;
+}
+
 .animals-list::-webkit-scrollbar {
   width: 18px;
 }
